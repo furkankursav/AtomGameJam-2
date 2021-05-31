@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NextLevel
+  - Finish1
+  - Rival
+  - KirilacakBlok
+  - Finish2
+  - PatlayiciUyari
+  - PatlayiciBilgi
+  - Level3Dialog
+  - Bal
+  - BalBaslat
+  - BalBitir
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Rival
+  - Player
+  - Maden
+  - Dinamit
+  - YavasZemin
+  - Bal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3956303647
+    locked: 0
